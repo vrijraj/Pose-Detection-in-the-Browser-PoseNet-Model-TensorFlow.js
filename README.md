@@ -1,6 +1,6 @@
 # Pose-Detection-in-the-Browser-PoseNet-Model-TensorFlow.js
 
-Load TensorFlow.js and Posenet CDN
+Load TensorFlow.js and PoseNet CDN
 
     <!-- Load TensorFlow.js -->
     <script src="https://unpkg.com/@tensorflow/tfjs@0.11.7/dist/tf.min.js"></script>
